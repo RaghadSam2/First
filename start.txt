@@ -1,12 +1,2 @@
-<!DOCTYPE html>
-<html> 
-
-<head>
-
-</head>
-
-<body>
-<H1> First Document </H1> 
-</body>
-
-</html>
+This is the first 
+doc. added.
